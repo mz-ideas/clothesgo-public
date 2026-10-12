@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "apiBaseUrl": "/api/v1",
+  "googleClientId": "",
+  "microsoftClientId": ""
+}

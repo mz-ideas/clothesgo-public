@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: /access-denied
+Disallow: /demo/
+Disallow: /overview
+Disallow: /operations
+Disallow: /garments
+Disallow: /washers
+Disallow: /washer-applications
+Disallow: /inventory-counts
+Disallow: /donations
+Disallow: /members
+Disallow: /drivers
+Disallow: /orders
+Disallow: /overdue-returns
+Disallow: /logistics
+Disallow: /finance
+Disallow: /disputes
+Disallow: /moderation
+Disallow: /analytics
+Disallow: /network-optimization
+
+Sitemap: https://clothesgo.app/sitemap.xml

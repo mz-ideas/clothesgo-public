@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "apiBaseUrl": "/api/v1",
+  "googleClientId": "123456789-example.apps.googleusercontent.com",
+  "microsoftClientId": "11111111-2222-4333-8444-555555555555"
+}

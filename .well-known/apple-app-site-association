@@ -1,0 +1,31 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "B73GMJR2KT.com.clothesgo.mobile"
+        ],
+        "components": [
+          {
+            "/": "/auth/*",
+            "comment": "Authentication callbacks"
+          },
+          {
+            "/": "/garments/*",
+            "comment": "Garment passport and discovery links"
+          },
+          {
+            "/": "/outfits/*",
+            "comment": "Shared outfit links"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "B73GMJR2KT.com.clothesgo.mobile"
+    ]
+  }
+}

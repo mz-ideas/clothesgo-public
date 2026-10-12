@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "channel": "PUBLIC_PREVIEW",
+  "platform": "IOS",
+  "bundleIdentifier": "com.clothesgo.mobile",
+  "version": "0.1.0",
+  "buildNumber": 79,
+  "artifact": {
+    "filename": "ClothesGo-Preview-0.1.0-79.ipa",
+    "url": "https://clothesgo.app/downloads/ios/ClothesGo-Preview-0.1.0-79.ipa",
+    "bytes": 25715955,
+    "sha256": "62c9fcf5bebf40486398016ae8654f58a9ea21bd6834cd16b3f0d4f3df6e9d7f"
+  },
+  "signing": {
+    "method": "AD_HOC",
+    "profileExpiration": "2027-09-01T01:59:14.000Z"
+  },
+  "source": {
+    "commit": "8996fc733f9b83224a7b2a5888f9869a93b13f63",
+    "state": "CLEAN"
+  },
+  "generatedAt": "2026-10-12T19:13:25.497Z"
+}

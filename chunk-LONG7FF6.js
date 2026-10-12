@@ -1,0 +1,1 @@
+import{a}from"./chunk-GPZSTSTG.js";import{Ja as e,U as t}from"./chunk-JWXWOLID.js";var s=class r{i18n=t(a);transform(n,i){return this.i18n.locale(),this.i18n.translate(n,i)}static \u0275fac=function(i){return new(i||r)};static \u0275pipe=e({name:"adminText",type:r,pure:!1})};export{s as a};
